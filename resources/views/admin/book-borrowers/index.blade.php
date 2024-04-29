@@ -7,7 +7,7 @@
       <div class="row">
         <div class="col-lg-12 px-3 py-3 text-right">
           <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#create-book-borrower-modal">
-            Tambah Data Peminjam Buku
+            Tambah Data Peminjam Buku Oke
           </button>
         </div>
       </div>

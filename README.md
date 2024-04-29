@@ -6,6 +6,7 @@ Berikut beberapa hal yang perlu diinstal terlebih dahulu:
 -   PHP ^10.0
 -   MySQL ^15
 -   XAMPP
+-   Ini Perubahan
 
 
 ### Fitur
